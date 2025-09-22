@@ -1,4 +1,4 @@
-## Hi :D
+## Hello!
 
 <!--
 **clam78/clam78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Claire! I'm a student at MIT studying math and computer science 🌱📖.
+Hi, I'm Claire! I'm a senior at MIT studying math and computer science 🌱📖.
